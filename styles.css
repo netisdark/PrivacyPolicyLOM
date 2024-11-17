@@ -6,12 +6,19 @@ body {
   background: #f4f4f4;
   color: #333;
 }
-
+.image{
+  height: 8vh;
+    width: 8vh;
+    border-radius: 50%;
+    background-position: center;
+    background-size: 100% 100%;
+}
 header {
   background: #0078d4;
   color: #fff;
   padding: 1rem 0;
   text-align: center;
+  display:flex;
 }
 
 main {
